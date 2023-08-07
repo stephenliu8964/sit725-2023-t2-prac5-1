@@ -31,6 +31,7 @@ function postCat(cat) {
         success: (result) => {
             if (result.statusCode === 201) {
                 alert('cat posted');
+                location.reload();
             }
         }
     });
