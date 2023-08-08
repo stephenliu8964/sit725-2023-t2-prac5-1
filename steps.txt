@@ -1,0 +1,7 @@
+1. dbConnection.js
+2. create folders: models, routers, controllers
+3. do models
+4. do router, (without controller at this stage)
+5. do controller
+6. update router (with the new controller logic)
+7. test and cleanup
